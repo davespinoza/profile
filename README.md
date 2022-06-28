@@ -1,2 +1,2 @@
-# profile
-A showcase of my abilities as a web developer.
+# My Profile
+This website is a showcase of my abilities as a web developer.
