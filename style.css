@@ -15,6 +15,14 @@ h1 {
   color: #e2dbdb;
 }
 
+hr {
+  margin: 20px auto;
+  color: #0d6efd;
+  border: 2px solid #0d6efd;
+  max-width: 65px;
+  opacity: 1;  
+}
+
 .btn{
   font-weight: 700;
   border-radius: 100px;
@@ -25,23 +33,8 @@ h1 {
   padding: 1rem 2rem;
 }
 
-.btn-primary {
-  background-color: #f05f44;
-  border-color: #f05f44;
-}
-
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 4px;
-}
-
-hr {
-  margin: 20px auto;
-  color: #F05F44;
-  border: 2px solid #F05F44;
-  max-width: 65px;
-  opacity: 1;  
+  transform: scale(1.1);
 }
 
 .buffer {
