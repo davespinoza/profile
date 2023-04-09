@@ -4,7 +4,8 @@ html {
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 
-  background: url(header.jpg) no-repeat center center fixed;
+  /*background: url(header.jpg) no-repeat center center fixed;*/ 
+  background-color: #2f374f;
   height: 100%;
   -webkit-background-size: cover;
   background-size: cover;
@@ -15,28 +16,18 @@ h1 {
   color: #e2dbdb;
 }
 
-hr {
-  margin: 20px auto;
-  color: #0d6efd;
-  border: 2px solid #0d6efd;
-  max-width: 65px;
-  opacity: 1;  
+p{
+  color: #e2dbdb;
 }
 
-.btn{
-  font-weight: 700;
-  border-radius: 100px;
-  text-transform: uppercase;
+.form-check-label{
+  color: #e2dbdb;
 }
 
-.btn-xl {
-  padding: 1rem 2rem;
+.form-label{
+  color: #e2dbdb;
 }
 
-.btn-primary:hover {
-  transform: scale(1.1);
-}
-
-.buffer {
-  height: 5rem;
+.table{
+  color: #e2dbdb;
 }
